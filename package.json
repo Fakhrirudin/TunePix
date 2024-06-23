@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "brotli-js": "^1.0.2",
+    "brotli-wasm": "^3.0.1",
+    "ffmpeg": "^0.0.4",
+    "fft.js": "^4.0.4",
+    "libflacjs": "^5.4.0"
+  }
+}
